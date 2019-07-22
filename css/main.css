@@ -30,3 +30,11 @@ h1 {
 p, small {
   font-family: Verdana, sans-serif;
 }
+
+.homie {
+  background-color: #fff;
+}
+
+a {
+  color: #000;
+}
